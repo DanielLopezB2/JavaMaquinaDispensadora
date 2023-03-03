@@ -12,16 +12,16 @@ public class Dispensadora {
         // Inicializar el atributo Productos con 10 productos reales
         
         productos = new ArrayList<>(Arrays.asList(
-            new Producto("001", "Galletas", "Marinela", 10.0, 5),
-            new Producto("002", "Refresco", "Coca-Cola", 20.0, 3),
-            new Producto("003", "Agua", "Cielo", 12.0, 7),
-            new Producto("004", "Chicles", "Trident", 5.0, 10),
-            new Producto("005", "Papas", "Sabritas", 15.0, 4),
-            new Producto("006", "Chocolate", "Hershey's", 18.0, 2),
-            new Producto("007", "Gomitas", "Haribo", 8.0, 6),
-            new Producto("008", "Café", "Nescafé", 22.0, 1),
-            new Producto("009", "Paletas", "La Michoacana", 7.0, 8),
-            new Producto("010", "Cigarros", "Marlboro", 40.0, 3)
+            new Producto("000", "Galletas", "Marinela", 10.0, 5),
+            new Producto("001", "Refresco", "Coca-Cola", 20.0, 3),
+            new Producto("002", "Agua", "Cielo", 12.0, 7),
+            new Producto("003", "Chicles", "Trident", 5.0, 10),
+            new Producto("004", "Papas", "Sabritas", 15.0, 4),
+            new Producto("005", "Chocolate", "Hershey's", 18.0, 2),
+            new Producto("006", "Gomitas", "Haribo", 8.0, 6),
+            new Producto("007", "Café", "Nescafé", 22.0, 1),
+            new Producto("008", "Paletas", "La Michoacana", 7.0, 8),
+            new Producto("009", "Cigarros", "Marlboro", 40.0, 3)
         ));
     }
 
